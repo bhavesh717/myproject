@@ -1,0 +1,6 @@
+include ':Edge_sdk_x070921'
+include ':botsdk-release'
+include ':Edge_sdk111021'
+include ':Edge_sdk_x070921'
+include ':app'
+rootProject.name = "Krsnaa"
